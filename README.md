@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <a href="https://getquizzer.com/">
+    React Media Player
+  </a>
+</h1>
+
+![Screenshot](screenshot.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
