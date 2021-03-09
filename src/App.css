@@ -13,3 +13,7 @@ audio{
 .font-titanOne {
   font-family: "Titan One" !important;
 }
+
+.cursor-pointer{
+  cursor: pointer;
+}

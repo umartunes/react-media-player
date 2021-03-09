@@ -89,7 +89,7 @@ function App() {
 												</div>
 
 												{mediaFiles.map(file => {
-													return <p key={file.path} className={`text-truncate mb-1 ${file === currentMediaFile ? "text-info fw-bold" : ""}`} onClick={() => { setCurrentMediaFile(file) }}>
+													return <p key={file.path} className={`text-truncate cursor-pointer mb-1 ${file === currentMediaFile ? "text-info fw-bold" : ""}`} onClick={() => { setCurrentMediaFile(file) }}>
 														<span className={`fas me-2 ${file !== currentMediaFile ? "fa-file" : "fa-play"}`}></span>
 														{file.path}
 														{/* - {file.size} <span>bytes</span> */}
