@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://getquizzer.com/">
+  <a href="https://techna.pk/">
     React Media Player
   </a>
 </h1>
@@ -10,7 +10,7 @@
 ![Screenshot 2](screenshot2.png)
 
 ## Use it Live
-[https://react-media-player.netlify.app/](https://react-media-player.netlify.app/)
+[https://react-media-player.web.app/](https://react-media-player.web.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
