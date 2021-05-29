@@ -110,7 +110,12 @@ function App() {
 					</div>
 
 					<div>
-						<p className="text-center mt-4 mb-2">&copy; {new Date().getFullYear()} React Media Player, Made with <span style={{ color: 'red' }}>❤</span> by <a className="text-white" href="https://techna.pk">Techna</a>.</p>
+						<p className="text-center mt-4 mb-2">
+							&copy; {new Date().getFullYear()} React Media Player.
+							Made with <span style={{ color: 'red' }}>❤</span> by &nbsp;
+							<a className="text-white font-weight-bold" href="https://umarahmad.me">Umar Ahmad</a>.
+						<br /> Powered by <a className="text-white font-weight-bold" href="https://techna.pk">Techna.</a>
+						</p>
 					</div>
 				</div>
 			</main>
